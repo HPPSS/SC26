@@ -52,7 +52,7 @@ We are using a simplified submission process this year. Each presentation submis
 
 Reviews will focus on the presentation description.
 
-**Submit abstracts through ** |HPPSSemail| **by the end of the day (AoE) 8/14/2026.**
+**Submit abstracts through** |HPPSSemail| **by the end of the day (AoE) 8/14/2026.**
 
 
 Optional Demo Video
