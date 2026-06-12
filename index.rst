@@ -30,6 +30,7 @@ Chicago, IL November 15-20, 2026
 
     About <about.rst>
     Organization <organizers.rst>
+    Call for Abstracts <callfordemos.rst>
     SC23 Workshop Site <https://hppss.github.io/SC23>
     SC24 Workhsop Site <https://hppss.github.io/SC24>
     SC25 Workshop Site <https://hppss.github.io/SC25>
