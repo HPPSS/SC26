@@ -14,8 +14,11 @@ broader engagement from the community. We plan to provide links to submissions t
 Important Dates
 ===============
 
+.. role:: strike
+   :class: strike
+
 * Submission opens: June 8, 2026
-* Abstract submission deadline: ~~August 14, 2026~~ August 21, 2026 (deadline extended)
+* Abstract submission deadline: :strike:`August 14, 2026` August 21, 2026 (deadline extended)
 * Decisions: September 4, 2025
 * SC26 conference: November 15-20, 2026
 * HPPSS half-day workshop: afternoon of November 15th
