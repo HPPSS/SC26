@@ -37,6 +37,7 @@ extensions = [
     "sphinx.ext.autosummary",
     "sphinx.ext.intersphinx",
     "sphinx_copybutton",
+    "sphinxnotes.strike",
 ]
 
 # autodoc_typehints = 'description'

@@ -14,9 +14,6 @@ broader engagement from the community. We plan to provide links to submissions t
 Important Dates
 ===============
 
-.. role:: strike
-   :class: strike
-
 * Submission opens: June 8, 2026
 * Abstract submission deadline: :strike:`August 14, 2026` August 21, 2026 (deadline extended)
 * Decisions: September 4, 2025
