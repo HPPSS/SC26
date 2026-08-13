@@ -15,7 +15,7 @@ Important Dates
 ===============
 
 * Submission opens: June 8, 2026
-* Abstract submission deadline: August 14, 2026
+* Abstract submission deadline: ~~August 14, 2026~~ August 21, 2026 (deadline extended)
 * Decisions: September 4, 2025
 * SC26 conference: November 15-20, 2026
 * HPPSS half-day workshop: afternoon of November 15th
@@ -52,7 +52,7 @@ We are using a simplified submission process this year. Each presentation submis
 
 Reviews will focus on the presentation description.
 
-**Submit abstracts through** |HPPSSemail| **by the end of the day (AoE) 8/14/2026.**
+**Submit abstracts through** |HPPSSemail| **by the end of the day (AoE) 8/21/2026.**
 
 
 Optional Demo Video
