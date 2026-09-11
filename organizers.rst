@@ -97,17 +97,3 @@ to generate high-performance code for physics simulations with the PETSc and FEn
 Python open-source software community. He's most notably a co-creator of the Dask distributed computing framework, the
 Conda package manager, the SymPy symbolic computing library, and NumFOCUS foundation.
 
-|
-
-|
-Technical Program Committee
-===========================
-
-Coming soon
-
-..
-   * Eric Eilertson (Microsoft)
-   * Bjoern Enders (National Energy Research Scientific Computing Center)
-   * Fernanda Foertter (Voltron Data)
-   * Khalid Hossain (Argonne National Labs)
-   * Sreenivas Rangan Sukumar (Hewlett Packard Enterprise)
