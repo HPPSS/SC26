@@ -1,9 +1,52 @@
 Workshop Schedule
 +++++++++++++++++
 
-.. |SC25Sched| raw:: html
+.. |SC26Sched| raw:: html
 
-   <a href="https://sc25.conference-program.com/session/?sess=sess231" target="_blank">Link to SC25 HPPSS Schedule</a>
+   <a href="https://sc26.conference-program.com/session/?sess=sess124" target="_blank">Link to SC25 HPPSS Schedule</a>
+
+HPPSS will take place on Monday, November 15th from 2 PM - 5:30 PM CST in room W183b. See the |SC26Sched| for more details.
+
++-----------------------------------------------------------+-------------------------------------------------------------+---------------------+
+| Event                                                     | Speaker(s)                                                  | Time                |
++===========================================================+=============================================================+=====================+
+| HPPSS Introduction                                        | Pete Mendygral, Sunita Chandrasekaran, Daniel Margala,      | 2 PM - 2:05 PM      |
+|                                                           |                                                             |                     |
+|                                                           | Sam Foreman, Davin Potts, Andy Terrel                       |                     |
++-----------------------------------------------------------+-------------------------------------------------------------+---------------------+
+| Featured Speaker                                          | Ryan Abernathey                                             | 2:05 PM - 2:45 PM   |
++-----------------------------------------------------------+-------------------------------------------------------------+---------------------+
+| AI for Science with Python on AMD Supercomputers          | Giacomo Capodaglio, Nicholas Malaya, Jose Noudohouenou,     | 2:45 PM - 3 PM      |
+|                                                           |                                                             |                     |
+|                                                           | Sidafa Conde, Alessandro Fanfarillo, Jonathan Belof         |                     |
++-----------------------------------------------------------+-------------------------------------------------------------+---------------------+
+| Afternoon Break                                           |                                                             | 3 PM - 3:30 PM      |
++-----------------------------------------------------------+-------------------------------------------------------------+---------------------+
+| sundials4py: state-of-the-art time integrators for        | Cody Balos, David Gardner, Steven Roberts, Daniel Reynolds, | 3:30 PM - 3:45 PM   |
+|                                                           |                                                             |                     |
+| high-performance Python                                   | Carol Woodward                                              |                     |
++-----------------------------------------------------------+-------------------------------------------------------------+---------------------+
+| Invited Speaker: Python as the Connective Tissue of the   | Rafael Ferreira da Silva                                    | 3:45 PM - 4:15 PM   |
+|                                                           |                                                             |                     |
+| Genesis Mission: From Exascale Workflows to Federated     |                                                             |                     |
+|                                                           |                                                             |                     |
+| Scientific Agents                                         |                                                             |                     |
++-----------------------------------------------------------+-------------------------------------------------------------+---------------------+
+| A Distributed HPC/AI Services Ecosystem for the Genesis   | Aymen Alsaadi, Andre Merzky, Andrew Shao, Shantenu Jha      | 4:15 PM - 4:30 PM   |
+|                                                           |                                                             |                     |
+| Mission Platform                                          |                                                             |                     |
++-----------------------------------------------------------+-------------------------------------------------------------+---------------------+
+| Python-Based Distributed Training on AMD GPU              | Vijeta Sharma                                               | 4:30 PM - 4:45 PM   |
+|                                                           |                                                             |                     |
+| Supercomputers: Lessons from Data, Pipeline, and Tensor   |                                                             |                     |
+|                                                           |                                                             |                     |
+| Parallelism on LUMI                                       |                                                             |                     |
++-----------------------------------------------------------+-------------------------------------------------------------+---------------------+
+| Panel Discussion: Beyond FLOPS and Kernels: Benchmarking  | Michela Taufer, Glenn Lockwood, Rollin Thomas, Minjia Zhang | 4:45 PM - 5:30 PM   |
+|                                                           |                                                             |                     |
+| Agentic Science and the Future Role of Python             |                                                             |                     | 
++-----------------------------------------------------------+-------------------------------------------------------------+---------------------+
+
 
 Ryan Abernathey (Earthmover) - Featured Speaker
 ===============================================
