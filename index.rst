@@ -23,7 +23,7 @@ future of Python in HPC and science.
 
 Chicago, IL November 15-20, 2026
 
-HPPSS Workshop is November 15, 2026 in the afternoon
+HPPSS Workshop is November 15, 2026 from 2 PM - 5:30 PM CST in room W183b.
 
 
 .. toctree::

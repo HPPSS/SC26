@@ -3,7 +3,7 @@ Workshop Schedule
 
 .. |SC26Sched| raw:: html
 
-   <a href="https://sc26.conference-program.com/session/?sess=sess124" target="_blank">Link to SC25 HPPSS Schedule</a>
+   <a href="https://sc26.conference-program.com/session/?sess=sess124" target="_blank">Link to SC26 HPPSS Schedule</a>
 
 HPPSS will take place on Monday, November 15th from 2 PM - 5:30 PM CST in room W183b. See the |SC26Sched| for more details.
 
