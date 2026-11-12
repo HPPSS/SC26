@@ -90,11 +90,6 @@ Accelerating knowledge propagation (2) is essentially the dream of the open scie
 I’ll conclude with a reflection on the evolving role of humans in this new agentic science landscape.
 
 
-|
-
-|
-
-
 Rafael Ferreira Da Silva (ORNL) - Invited Speaker
 =================================================
 
