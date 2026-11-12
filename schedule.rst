@@ -14,7 +14,7 @@ HPPSS will take place on Sunday, November 15th from 2 PM - 5:30 PM CST in room W
 |                                                           |                                                             |                     |
 |                                                           | Sam Foreman, Davin Potts, Andy Terrel                       |                     |
 +-----------------------------------------------------------+-------------------------------------------------------------+---------------------+
-| Featured Speaker                                          | Ryan Abernathey                                             | 2:05 PM - 2:45 PM   |
+| Making Science Faster                                     | Ryan Abernathey                                             | 2:05 PM - 2:45 PM   |
 +-----------------------------------------------------------+-------------------------------------------------------------+---------------------+
 | AI for Science with Python on AMD Supercomputers          | Giacomo Capodaglio, Nicholas Malaya, Jose Noudohouenou,     | 2:45 PM - 3 PM      |
 |                                                           |                                                             |                     |
